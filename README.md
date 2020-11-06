@@ -56,6 +56,11 @@ All Jedi Masters must create and initialize new nodes in their respective chains
 * In window 2, run:
 	* "./geth --networkid 199 --datadir jedi2 --unlock "0xeE43bca5D8F20f14BD9258897c750413D01543d0" --port 30311 --mine --password pw.txt --bootnodes "enode://e537a17c40d5f6f9eb109cfa3daeae65c13e25c5292e405194a49d1af473856da7e87f994767cedb9258e729a4fdc124d4d5dc880831180ba8a6ff96d6553218@127.0.0.1:30310" --ipcdisable --allow-insecure-unlock"
 
+Please see these images for reference:
+
+* ![window_one](screenshots/window_one.png)
+* ![window_two](screenshots/window_two.png)
+
 #### Definitions
 
 * ./ geth - initialized geth
@@ -71,7 +76,6 @@ All Jedi Masters must create and initialize new nodes in their respective chains
 * allow-insecure-unlock - opens chain for transmission 
 * rpc - this allows our nodes to communicate
 * bootnodes - this communicates the network settings to the node
-
 
 ## Network Setup
 
