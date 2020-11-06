@@ -59,8 +59,13 @@ All Jedi Masters must create and initialize new nodes in their respective chains
 
 Please see these images for reference:
 
-* ![window_one](/screenshots/window_one.PNG)
-* ![window_two](/screenshots/window_two.PNG)
+* Window 1
+
+![window_one](/screenshots/window_one.PNG)
+
+* Window 2
+
+![window_two](/screenshots/window_two.PNG)
 
 #### Definitions
 
@@ -80,5 +85,29 @@ Please see these images for reference:
 
 ## Network Setup
 
+* Open MyCrypto
+* Setup the new network to connect
+	* Node name is jedi1
+	* Network name is the jediknights
+	* ID is 199
+	* Address is 127.0.0.1:8545
+* Select "View & Send"
+* Input the keystore file of jedi1 followed by the password
+* Input the address of the jedi2 node, select the amount, fastest transfer, and sign the transaction
+* Wait for confirmation message
+![jedi_test_message](/screenshots/jedi_test_message.PNG)
+
+### Network Images
+
+* Change Network
+![change_network](/screenshots/change_network.PNG)
+
+* Network Setup
+![network_setup_window.PNG](/screenshots/network_setup_window.PNG)
+
 ## Disclosure
+
+The fate of the galaxy depends on you
+
+# May the Force be with You
 
