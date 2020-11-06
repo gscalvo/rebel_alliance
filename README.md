@@ -100,9 +100,11 @@ Please see these images for reference:
 ### Network Images
 
 * Change Network
+
 ![change_network](/screenshots/change_network.PNG)
 
 * Network Setup
+
 ![network_setup_window.PNG](/screenshots/network_setup_window.PNG)
 
 ## Disclosure
