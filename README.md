@@ -58,8 +58,8 @@ All Jedi Masters must create and initialize new nodes in their respective chains
 
 Please see these images for reference:
 
-* ![window_one](screenshots/window_one.png)
-* ![window_two](screenshots/window_two.png)
+* ![window_one](/screenshots/window_one.PNG)
+* ![window_two](/screenshots/window_two.png)
 
 #### Definitions
 
