@@ -8,6 +8,7 @@ We will use this blockchain technology to communicate with our different bases a
 ## Required Software
 
 * Blockchain tools, Geth & Puppeth (all included in this message)
+* MyCrypto
 * Windows/Mac running Unix based software such as Terminal or GitBash
 
 ## Initial Commands
@@ -59,7 +60,7 @@ All Jedi Masters must create and initialize new nodes in their respective chains
 Please see these images for reference:
 
 * ![window_one](/screenshots/window_one.PNG)
-* ![window_two](/screenshots/window_two.png)
+* ![window_two](/screenshots/window_two.PNG)
 
 #### Definitions
 
